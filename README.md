@@ -1,1 +1,1 @@
-# Projeto de cálculo: derivada e integral de uma função
+# Projeto de cálculo: integral de uma função
